@@ -3,7 +3,7 @@
 - 🌱 I am currently learning web applications using Java, Python, React and Node.
 - 💞️ I am looking to collaborate on projects to build Web applications or APIs.
 - :guardsman: Proficiency in English language
-- 📫 You can contact me through my email paulovitor182@hotmail.com
+- 📫 You can reach me through my email paulovitor182@hotmail.com
 
 <!--
 **paulobruni/paulobruni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
