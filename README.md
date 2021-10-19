@@ -1,7 +1,8 @@
 - 👋 Hi, I'm @paulobruni.
-- 👀 I'm interested in participating in software development projects in Java, Python and *.js languages.
-- 🌱 I am currently learning to create web applications using Java, Python, React and Node.
-- 💞️ I am looking to collaborate on collaborating on projects to build Web applications or APIs.
+- 👀 I'm interested to participate in software development projects using Java, Python and *.js languages.
+- 🌱 I am currently learning web applications using Java, Python, React and Node.
+- 💞️ I am looking to collaborate on projects to build Web applications or APIs.
+- :guardsman: Proficiency in English language
 - 📫 You can contact me through my email paulovitor182@hotmail.com
 
 <!--
