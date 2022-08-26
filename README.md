@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulobruni&" alt="paulobruni" /></p>
 
-<p>Generate a profile like that for you by yourself at <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator<a/> an excellent work from <a href="https://rahuldkjain.github.io">Rahul Jain<a/>Rahul Jain</p>
+<p>Generate a profile like that for you by yourself at <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator<a/>, an excellent work from <a href="https://rahuldkjain.github.io">Rahul Jain<a/></p>
