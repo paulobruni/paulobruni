@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Bruni</h1>
-<h3 align="center">Currently preparing myself for a DevOps role</h3>
+<h3 align="center">Currently improving myself as a PriceFX Configuration Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulobruni&label=Profile%20views&color=0e75b6&style=flat" alt="paulobruni" /> </p>
 
