@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/paulobruni" target="blank"><img src="https://img.shields.io/twitter/follow/paulobruni?logo=twitter&style=for-the-badge" alt="paulobruni" /></a> </p>
 
-- 🔭 I’m currently working on [Amdocs as Software Engineer](https://www.amdocs.com)
+- 🔭 I’m currently working on [Canidium](https://www.amdocs.com) as PriceFX Systems Analyst (Groovy Language)
 
-- 🌱 I’m currently learning **Linux, Docker, Kubernetes, Terraform, AWS and bash**
+- 🌱 I’m currently learning **Groovy, Apache Camel, PriceFX Contents (Rebates, Integration)**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for carrer development as a **Developer**
 
 - 📫 How to reach me **paulovitor182@hotmail.com**
 
